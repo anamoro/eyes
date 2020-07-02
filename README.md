@@ -1,3 +1,3 @@
 # One Eye Monster
-<img src= "oneeye.png" />
-<a href='./oneEye.html'> one Eye </a>
+<img src= "oneeye.png" width='300'/>
+<a href='https://johntango.github.io/eyes'> one Eye Monster </a>
