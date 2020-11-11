@@ -1,2 +1,2 @@
-# One Eye Monster
+# One Eye
 <img src= "oneeye.png" width='300'/>
