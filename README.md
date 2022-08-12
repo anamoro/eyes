@@ -1,3 +1,3 @@
 # Eyes
-## Exercise on eyes
+## Exercise about eyes
 <img src= "oneeye.png" width='300'/>
